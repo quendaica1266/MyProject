@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DuAn1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_truyen_hai">TruyenHaiActivity</string>
+    <string name="title_activity_truyen_kinh_di">TruyenKinhDiActivity</string>
+    <string name="title_activity_truyen_tinh_cam">TruyenTinhCamActivity</string>
+    <string name="title_activity_truyen_hai_the_thao">TruyenHaiTheThaoActivity</string>
+    <string name="title_activity_truyen_bua">TruyenBuaActivity</string>
+
+</resources>

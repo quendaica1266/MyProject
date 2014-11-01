@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item_truyenhai" 
+        android:title="Truyen Hai" 
+       >
+        
+    </item>
+    <item android:id="@+id/item_truyenkinhdi"
+         android:title="Truyen Kinh Di">
+        
+        
+    </item>
+    <item android:id="@+id/item_truyentinhcam" android:title="Truyen Tinh Cam"></item>
+      
+    <item android:id="@+id/item_truyenbua" android:title="Truyen Bua"></item>
+        <item android:id="@+id/item_haithethao" android:title="Truyen Hai The Thao"></item>
+
+</menu>

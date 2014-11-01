@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.cc.duan1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+         >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu" >
+        </activity>
+        <activity
+            android:name=".TruyenHaiActivity"
+            android:label="@string/title_activity_truyen_hai" >
+        </activity>
+        <activity
+            android:name=".TruyenKinhDiActivity"
+            android:label="@string/title_activity_truyen_kinh_di" >
+        </activity>
+        <activity
+            android:name=".TruyenTinhCamActivity"
+            android:label="@string/title_activity_truyen_tinh_cam" >
+        </activity>
+        <activity
+            android:name=".TruyenHaiTheThaoActivity"
+            android:label="@string/title_activity_truyen_hai_the_thao" >
+        </activity>
+        <activity
+            android:name=".TruyenBuaActivity"
+            android:label="@string/title_activity_truyen_bua" >
+        </activity>
+    </application>
+
+</manifest>
